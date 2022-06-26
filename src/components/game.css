@@ -1,0 +1,24 @@
+.game {
+  text-align: center;
+  background: #ab4967;
+  margin: 20% 10%;
+  padding: 10%;
+  border-radius: 2em;
+}
+.error,
+.score {
+  color: maroon;
+  font-weight: bold;
+  margin: 1em;
+}
+.submit {
+  margin: 2em;
+  background: tomato;
+  color: white;
+  height: 2em;
+  width: 6em;
+  border-radius: 1em;
+}
+#congrats {
+  color: darkgreen;
+}

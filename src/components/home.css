@@ -1,0 +1,20 @@
+.home {
+  text-align: center;
+  margin-top: 3em;
+}
+.list {
+  text-align: left;
+}
+.start-button {
+  background-color: tomato;
+  color: white;
+  height: 3em;
+  width: 8em;
+  margin: 2em;
+  font-weight: bold;
+  border-radius: 1em;
+}
+.heading {
+  color: tomato;
+  font-weight: bolder;
+}
